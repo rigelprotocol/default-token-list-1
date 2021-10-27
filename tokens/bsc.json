@@ -1,5 +1,13 @@
 [
   {
+    "name": "RigelToken",
+    "symbol": "RGP",
+    "address": "0xfa262f303aa244f9cc66f312f0755d89c3793192",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+  },
+  {
     "name": "Bakery Token",
     "symbol": "BAKE",
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",

@@ -1,5 +1,13 @@
 [
   {
+    "name": "RigelToken",
+    "address": "0x80278a0cf536e568a76425b67fb3931dca21535c",
+    "symbol": "RGP",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",

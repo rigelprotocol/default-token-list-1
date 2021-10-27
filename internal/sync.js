@@ -39,7 +39,7 @@ const NAME = {
       // Grab file file names of the sushiswap/icons repo at the token path
       // we can use this to see if our default list is missing icons
       const { data } = await octokit.rest.repos.getContent({
-        owner: "sushiswap",
+        owner: "rigelprotocol",
         repo: "icons",
         path: "token",
       });
@@ -73,7 +73,7 @@ const NAME = {
         // Check if logoURI has correct path
         if (!token.logoURI.includes("sushiswap/icons")) {
           // TODO: Automate this part...
-          const logoURI = `https://raw.githubusercontent.com/sushiswap/icons/master/token/${icon}.jpg`;
+          const logoURI = `https://raw.githubusercontent.com/rigelprotocol/icons/master/token/${icon}.jpg`;
 
           console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
         } else {
