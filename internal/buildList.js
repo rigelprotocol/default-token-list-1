@@ -30,7 +30,7 @@ const fuse = require("../tokens/fuse.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "SushiSwap Menu",
+    name: "Smartswap Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -39,8 +39,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "https://assets.coingecko.com/coins/images/15837/small/A_qRYvB2_400x400.png",
+    keywords: ["Smartswap", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,

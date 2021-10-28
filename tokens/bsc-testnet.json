@@ -1,5 +1,13 @@
 [
   {
+    "name": "RigelToken",
+    "symbol": "RGP",
+    "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+  },
+  {
     "name": "WBNB Token",
     "symbol": "WBNB",
     "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
