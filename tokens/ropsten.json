@@ -1,7 +1,7 @@
 [
   {
     "name": "RigelToken",
-    "address": "0x80278a0cf536e568a76425b67fb3931dca21535c",
+    "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
     "symbol": "RGP",
     "decimals": 18,
     "chainId": 3,

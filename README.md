@@ -1,12 +1,13 @@
-# @smartswap/default-token-list
+# @rigelprotocol_01/default-token-list
 
 This NPM module and GitHub repo contains the default token list used in the Smartswap interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
-  + [file an issue](https://github.com/rigelprotocol/default-token-list-1/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D)
-  + [Add PR](https://github.com/rigelprotocol/assets) with corresponding logo in under the correct blockchain folder
+
+- [file an issue](https://github.com/rigelprotocol/default-token-list-1/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D)
+- [Add PR](https://github.com/rigelprotocol/assets) with corresponding logo in under the correct blockchain folder
 
 ### Disclaimer
 
