@@ -27,7 +27,7 @@
     "name": "USDTToken",
     "address": "0x7E1cF971de65eB065A72595B3Ac9e1b9Cc630564",
     "symbol": "USDT",
-    "decimals": 6,
+    "decimals": 18,
     "chainId": 80001,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
