@@ -10,7 +10,7 @@
   {
     "name": "WBNB Token",
     "symbol": "WBNB",
-    "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+    "address": "0x23967E68bB6FeA03fcc3676F8E55272106F44A4A",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
@@ -18,7 +18,7 @@
   {
     "name": "BUSD Token",
     "symbol": "BUSD",
-    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+    "address": "0x10249E900B919FDEe9e2ED38b4cd83C4df857254",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
@@ -27,6 +27,14 @@
     "name": "USDT Token",
     "symbol": "USDT",
     "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+  },
+  {
+    "name": "AXSToken",
+    "symbol": "AXS",
+    "address": "0x6b9A9df1e6a29F17BFC79040A8f505Aaa8866b6e",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"

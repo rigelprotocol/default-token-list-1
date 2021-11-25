@@ -9,7 +9,7 @@
   },
   {
     "name": "Wrapped Ether",
-    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "address": "0x492Df17f202e36525151Ce7BcD49d5637Dc10659",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 3,
@@ -45,5 +45,21 @@
     "decimals": 6,
     "chainId": 3,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Binance Usd",
+    "address": "0xD848eD7f625165D7fFa9e3B3b0661d6074902FD4",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "name": "Tether",
+    "address": "0x66F56B882364b2E36E837A1Acf964104cA19124F",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 3,
+    "logoURI": "https://etherscan.io/token/images/tether_32.png"
   }
 ]
