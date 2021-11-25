@@ -1,6 +1,6 @@
 {
   "name": "@rigelprotocol_01/default-token-list",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "◦ The Smartswap default token list",
   "main": "build/smartswap-default.tokenlist.json",
   "scripts": {
